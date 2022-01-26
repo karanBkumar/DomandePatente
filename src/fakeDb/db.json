@@ -1,0 +1,404 @@
+{
+  "data": [
+    {
+      "id": 895,
+      "nomecapitolo": "SEGNALI DI PERICOLO",
+      "nomelezione": "salita ripida",
+      "idcapitolo": 1,
+      "idlezione": 16,
+      "domanda": "Il segnale raffigurato preannuncia un tratto di strada da percorrere con il pedale della frizione abbassato",
+      "risposta": "F",
+      "immagine": "images/quiz/1/pericolo25.png"
+    },
+    {
+      "id": 610,
+      "nomecapitolo": "SEGNALI DI PERICOLO",
+      "nomelezione": "Curva pericolosa a destra",
+      "idcapitolo": 1,
+      "idlezione": 3,
+      "domanda": "Il segnale raffigurato richiede di moderare la velocit&agrave;",
+      "risposta": "V",
+      "immagine": "images/quiz/1/pericolo6.png"
+    },
+    {
+      "id": 1413,
+      "nomecapitolo": "SEGNALI DI DIVIET0",
+      "nomelezione": "divieto transito mezzi pesanti",
+      "idcapitolo": 2,
+      "idlezione": 14,
+      "domanda": "Il segnale raffigurato vieta il transito di un autocarro di massa a pieno carico pari a 3 tonnellate",
+      "risposta": "F",
+      "immagine": "images/quiz/2/divieto14.png"
+    },
+    {
+      "id": 1346,
+      "nomecapitolo": "SEGNALI DI DIVIET0",
+      "nomelezione": "divieto transito pedoni",
+      "idcapitolo": 2,
+      "idlezione": 8,
+      "domanda": "Il segnale raffigurato obbliga i pedoni a circolare sul margine sinistro della carreggiata",
+      "risposta": "F",
+      "immagine": "images/quiz/2/divieto8.png"
+    },
+    {
+      "id": 2147,
+      "nomecapitolo": "SEGNALI DI OBBLIGO",
+      "nomelezione": "obbligo svolta veicoli pesanti",
+      "idcapitolo": 3,
+      "idlezione": 28,
+      "domanda": "Il segnale raffigurato preannuncia una curva pericolosa a destra per gli autocarri in transito",
+      "risposta": "F",
+      "immagine": "images/quiz/3/obb28.png"
+    },
+    {
+      "id": 1799,
+      "nomecapitolo": "SEGNALI DI OBBLIGO",
+      "nomelezione": "direzione destra",
+      "idcapitolo": 3,
+      "idlezione": 3,
+      "domanda": "Il segnale raffigurato prescrive di proseguire diritto",
+      "risposta": "F",
+      "immagine": "images/quiz/3/obb3.png"
+    },
+    {
+      "id": 2356,
+      "nomecapitolo": "SEGNALI DI PRECEDENZA",
+      "nomelezione": "strada diritto precedenza",
+      "idcapitolo": 4,
+      "idlezione": 12,
+      "domanda": "Il segnale raffigurato comporta la presenza sulle strade che si incrociano del segnale DARE PRECEDENZA o STOP",
+      "risposta": "V",
+      "immagine": "images/quiz/4/pre12.png"
+    },
+    {
+      "id": 2324,
+      "nomecapitolo": "SEGNALI DI PRECEDENZA",
+      "nomelezione": "confluenza destra",
+      "idcapitolo": 4,
+      "idlezione": 10,
+      "domanda": "Il segnale raffigurato preannuncia una confluenza sul lato destro",
+      "risposta": "V",
+      "immagine": "images/quiz/4/pre10.png"
+    },
+    {
+      "id": 2551,
+      "nomecapitolo": "SEGNALETICA ORIZZONTALE E SEGNI SUGLI OSTACOLI",
+      "nomelezione": "STRISCE PEDONALI",
+      "idcapitolo": 5,
+      "idlezione": 17,
+      "domanda": "La segnaletica in figura indica, sia dentro che fuori dei centri abitati, un attraversamento pedonale",
+      "risposta": "V",
+      "immagine": "images/quiz/5/so17.png"
+    },
+    {
+      "id": 2543,
+      "nomecapitolo": "SEGNALETICA ORIZZONTALE E SEGNI SUGLI OSTACOLI",
+      "nomelezione": "STRISCIA BIANCA DISCONTINUA STRADA SENSO UNICO",
+      "idcapitolo": 5,
+      "idlezione": 16,
+      "domanda": "In una strada a senso unico di circolazione con la segnaletica indicata in figura si pu&ograve; sorpassare anche in curva",
+      "risposta": "V",
+      "immagine": "images/quiz/5/so16.png"
+    },
+    {
+      "id": 2848,
+      "nomecapitolo": "SEMAFORI - VIGILI",
+      "nomelezione": "ADDETTI POLIZIA POSTALE",
+      "idcapitolo": 6,
+      "idlezione": 15,
+      "domanda": "Gli addetti a servizi di polizia stradale vengono riconosciuti dal segnale distintivo",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 2859,
+      "nomecapitolo": "SEMAFORI - VIGILI",
+      "nomelezione": "vigile luce rossa",
+      "idcapitolo": 6,
+      "idlezione": 16,
+      "domanda": "Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura bisogna suonare il clacson, ma con moderazione, per richiamare l'attenzione del vigile",
+      "risposta": "F",
+      "immagine": "images/quiz/6/sem16.png"
+    },
+    {
+      "id": 4103,
+      "nomecapitolo": "LIMITI VELOCITA'",
+      "nomelezione": "limiti strade extra urbane secondarie",
+      "idcapitolo": 10,
+      "idlezione": 9,
+      "domanda": "Il limite massimo di velocit&agrave; su strade extraurbane secondarie &egrave; di 70 km/h per autotreni",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 4135,
+      "nomecapitolo": "LIMITI VELOCITA'",
+      "nomelezione": "diminuzione velocità",
+      "idcapitolo": 10,
+      "idlezione": 12,
+      "domanda": "Salvo diversa segnalazione, il limite massimo di velocit&agrave; sulle strade extraurbane principali &egrave; di 100 km/h",
+      "risposta": "F",
+      "immagine": "NA"
+    },
+    {
+      "id": 4337,
+      "nomecapitolo": "DISTANZA SICUREZZA'",
+      "nomelezione": "distanza sicurezza veicoli",
+      "idcapitolo": 11,
+      "idlezione": 14,
+      "domanda": "La distanza di sicurezza deve essere aumentata quando il veicolo che precede trasporta un carico sporgente, poco stabile",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 4251,
+      "nomecapitolo": "DISTANZA SICUREZZA'",
+      "nomelezione": "distanza situazioni",
+      "idcapitolo": 11,
+      "idlezione": 2,
+      "domanda": "La distanza di sicurezza deve essere uguale allo spazio di frenatura aumentato di 20 metri",
+      "risposta": "F",
+      "immagine": "NA"
+    },
+    {
+      "id": 4519,
+      "nomecapitolo": "NORME E CIRCOLAZIONE VEICOLI'",
+      "nomelezione": "attenzione cambio corsia",
+      "idcapitolo": 12,
+      "idlezione": 17,
+      "domanda": "Quando si vuole cambiare corsia bisogna controllare che la corsia da impegnare sia libera davanti per un tratto sufficiente",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 4412,
+      "nomecapitolo": "NORME E CIRCOLAZIONE VEICOLI'",
+      "nomelezione": "centro abitato e pedone",
+      "idcapitolo": 12,
+      "idlezione": 6,
+      "domanda": "In un centro abitato, quando un pedone, fuori delle strisce di attraversamento, non accenni a darci la precedenza, &egrave; opportuno nelle ore notturne, procedere con gli abbaglianti accesi cos&igrave; che possa accorgersi di noi",
+      "risposta": "F",
+      "immagine": "NA"
+    },
+    {
+      "id": 5112,
+      "nomecapitolo": "PRECEDENZE E INCROCI",
+      "nomelezione": "fig 644",
+      "idcapitolo": 13,
+      "idlezione": 39,
+      "domanda": "Giungendo all'incrocio rappresentato in figura i veicoli devono passare nel seguente ordine: P, D, L, B",
+      "risposta": "F",
+      "immagine": "images/quiz/13/prec39.png"
+    },
+    {
+      "id": 4904,
+      "nomecapitolo": "PRECEDENZE E INCROCI",
+      "nomelezione": "fig 647",
+      "idcapitolo": 13,
+      "idlezione": 17,
+      "domanda": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo B transita per primo",
+      "risposta": "F",
+      "immagine": "images/quiz/13/prec17.png"
+    },
+    {
+      "id": 5214,
+      "nomecapitolo": "NORME SUL SORPASSO",
+      "nomelezione": "spazio necessario al sorpasso",
+      "idcapitolo": 14,
+      "idlezione": 3,
+      "domanda": "In autostrada si pu&ograve; sorpassare indifferentemente a destra e a sinistra",
+      "risposta": "F",
+      "immagine": "NA"
+    },
+    {
+      "id": 5203,
+      "nomecapitolo": "NORME SUL SORPASSO",
+      "nomelezione": "spazio necessario al sorpasso",
+      "idcapitolo": 14,
+      "idlezione": 3,
+      "domanda": "Prima di rientrare nella corsia di destra dopo il sorpasso, occorre controllare la posizione del veicolo sorpassato attraverso gli specchietti retrovisori",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 5498,
+      "nomecapitolo": "NORME VARIE INGOMBRO DELLA CARREGGIATA ECC",
+      "nomelezione": "caduta spargimento materie pericolose",
+      "idcapitolo": 16,
+      "idlezione": 2,
+      "domanda": "Chiunque non abbia potuto evitare la caduta o lo spargimento di materie viscide, infiammabili o pericolose, deve, tra l'altro, rimuoverle o spargere sul terreno, se possibile, sabbia, terra, segatura o altro materiale idoneo a ripristinare l'aderenza",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 5751,
+      "nomecapitolo": "NORME VARIE INGOMBRO DELLA CARREGGIATA ECC",
+      "nomelezione": "comportamenti guida carvan",
+      "idcapitolo": 16,
+      "idlezione": 34,
+      "domanda": "Il caravan non &egrave; considerato un rimorchio perch&eacute; pu&ograve; essere adibito ad alloggio",
+      "risposta": "F",
+      "immagine": "NA"
+    },
+    {
+      "id": 6003,
+      "nomecapitolo": "DISPOSITIVI DI EQUIPAGGIAMENTO CINTURE CASCO ECC",
+      "nomelezione": "situazione particolari sicurezza",
+      "idcapitolo": 18,
+      "idlezione": 3,
+      "domanda": "Le persone che soffrono di particolari malattie certificate non sono tenute ad agganciare la cintura di sicurezza",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 6051,
+      "nomecapitolo": "DISPOSITIVI DI EQUIPAGGIAMENTO CINTURE CASCO ECC",
+      "nomelezione": "caratteristiche air bag",
+      "idcapitolo": 18,
+      "idlezione": 7,
+      "domanda": "L&rsquo;airbag pu&ograve; essere talvolta disattivabile",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 6368,
+      "nomecapitolo": "INCIDENTI STRADALI ",
+      "nomelezione": "causa probabile incidenti",
+      "idcapitolo": 20,
+      "idlezione": 0,
+      "domanda": "Causa probabile di incidenti dovuti alla struttura della strada pu&ograve; essere carreggiata a senso unico di circolazione",
+      "risposta": "F",
+      "immagine": "NA"
+    },
+    {
+      "id": 6451,
+      "nomecapitolo": "INCIDENTI STRADALI ",
+      "nomelezione": "tamponamenti",
+      "idcapitolo": 20,
+      "idlezione": 9,
+      "domanda": "I tamponamenti stradali avvengono maggiormente se non si rispetta la distanza di sicurezza",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 6468,
+      "nomecapitolo": "ALCOOL E DROGA ",
+      "nomelezione": "eccesso bevande alcoliche",
+      "idcapitolo": 21,
+      "idlezione": 1,
+      "domanda": "Un conducente che ha assunto una quantit&agrave; eccessiva di bevande alcoliche pu&ograve; recuperare velocemente l'idoneit&agrave; alla guida se assume caff&egrave; amaro",
+      "risposta": "F",
+      "immagine": "NA"
+    },
+    {
+      "id": 6521,
+      "nomecapitolo": "ALCOOL E DROGA ",
+      "nomelezione": "corpo estraneo occhio",
+      "idcapitolo": 21,
+      "idlezione": 10,
+      "domanda": "Se ad un infortunato della strada &egrave; entrato un corpo estraneo in un occhio, bisogna consigliargli di non toccare l'occhio danneggiato, per evitare danni maggiori",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 77,
+      "nomecapitolo": "Definizioni Stradali e di Traffico",
+      "nomelezione": "intersezione (incrocio) a livelli sfalsati",
+      "idcapitolo": 0,
+      "idlezione": 6,
+      "domanda": "L'intersezione (incrocio) a livelli sfalsati &egrave; munita di infrastrutture (rampe, sovrappassi, sottopassi) per il collegamento fra strade poste a livelli diversi",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 3013,
+      "nomecapitolo": "SEGNALI INDICAZIONE",
+      "nomelezione": "telefono pubblico",
+      "idcapitolo": 7,
+      "idlezione": 10,
+      "domanda": "Il segnale raffigurato indica che &egrave; consentito telefonare solo con cellulari a viva voce",
+      "risposta": "F",
+      "immagine": "images/quiz/7/si10.png"
+    },
+    {
+      "id": 3655,
+      "nomecapitolo": "SEGNALI COMPLEMENTARI CANTIERE",
+      "nomelezione": "delineatore incrocio T",
+      "idcapitolo": 8,
+      "idlezione": 15,
+      "domanda": "Il delineatore raffigurato &egrave; posto in un incrocio dove non &egrave; possibile proseguire diritto",
+      "risposta": "V",
+      "immagine": "images/quiz/8/sc15.png"
+    },
+    {
+      "id": 3906,
+      "nomecapitolo": "PANNELLI INTEGRATIVI",
+      "nomelezione": "segnale corsia",
+      "idcapitolo": 9,
+      "idlezione": 20,
+      "domanda": "Il pannello integrativo in figura, posto in alto sulla carreggiata insieme ad un segnale, specifica a quale corsia si riferisce il segnale",
+      "risposta": "V",
+      "immagine": "images/quiz/9/pi20.png"
+    },
+    {
+      "id": 5368,
+      "nomecapitolo": "FERMATA SOSTA, ARRESTO E PARTENZA",
+      "nomelezione": "divieto sosta fermata",
+      "idcapitolo": 15,
+      "idlezione": 8,
+      "domanda": "La sosta e la fermata sono vietate sui marciapiedi, salvo diversa segnalazione",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 5828,
+      "nomecapitolo": "LUCI E DISPOSITIVI ACUSTICI",
+      "nomelezione": "dispositivi utilizzare durante marcia",
+      "idcapitolo": 17,
+      "idlezione": 1,
+      "domanda": "Durante la marcia, &egrave; obbligatorio tenere accese le luci abbaglianti, a partire dal tramonto del sole fino al suo sorgere",
+      "risposta": "F",
+      "immagine": "NA"
+    },
+    {
+      "id": 6166,
+      "nomecapitolo": "PATENTI DI GUIDA, SISTEMA SANZIONATORIO",
+      "nomelezione": "patenti categoria a2",
+      "idcapitolo": 19,
+      "idlezione": 5,
+      "domanda": "Con la patente di categoria A2 si possono condurre i motocicli (con o senza carrozzetta) di potenza fino a 35 kW, rapporto potenza/peso non superiore a 0,2 kW/kg purch&eacute; non siano derivati da una versione dello stesso modello che sviluppi oltre il doppio della potenza massima",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 6693,
+      "nomecapitolo": "RESPONSABILITA CIVILE PENALE ",
+      "nomelezione": "imprese assicuratrici",
+      "idcapitolo": 22,
+      "idlezione": 13,
+      "domanda": "L'assicurazione per la responsabilit&agrave; civile auto (R.C.A.) &egrave; obbligatoria per legge",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 6797,
+      "nomecapitolo": "AMBIENTE E INQUINAMENTO ",
+      "nomelezione": "inquinamento atmosferico",
+      "idcapitolo": 23,
+      "idlezione": 6,
+      "domanda": "L'inquinamento dell'aria pu&ograve; essere ridotto, controllando che il veicolo sia sempre nelle condizioni ottimali di consumo e rendimento",
+      "risposta": "V",
+      "immagine": "NA"
+    },
+    {
+      "id": 7028,
+      "nomecapitolo": "MANUTENZIONE ED ELEMENTI DEL VEICOLO ",
+      "nomelezione": "sospensioni veicolo motore",
+      "idcapitolo": 24,
+      "idlezione": 21,
+      "domanda": "Le sospensioni di un veicolo a motore servono a garantire che le ruote rimangano aderenti al fondo stradale",
+      "risposta": "V",
+      "immagine": "NA"
+    }
+  ]
+}
